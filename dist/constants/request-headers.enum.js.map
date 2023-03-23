@@ -1,0 +1,1 @@
+{"version":3,"file":"request-headers.enum.js","sourceRoot":"","sources":["../../src/constants/request-headers.enum.ts"],"names":[],"mappings":";;;AAAA,IAAY,kBAEX;AAFD,WAAY,kBAAkB;IAC5B,qDAA+B,CAAA;AACjC,CAAC,EAFW,kBAAkB,GAAlB,0BAAkB,KAAlB,0BAAkB,QAE7B","sourcesContent":["export enum RequestHeadersEnum {\r\n  AUTHORIZATION = 'Authorization'\r\n}\r\n"]}

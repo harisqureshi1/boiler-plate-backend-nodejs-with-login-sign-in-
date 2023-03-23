@@ -1,0 +1,1 @@
+{"version":3,"file":"auth-hash.interface.js","sourceRoot":"","sources":["../../src/interfaces/auth-hash.interface.ts"],"names":[],"mappings":"","sourcesContent":["export interface IAuthHash {\n    _id: string;\n    authHash: string;\n    userId: string;\n    createAt: string;\n  }\n"]}

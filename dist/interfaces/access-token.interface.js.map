@@ -1,0 +1,1 @@
+{"version":3,"file":"access-token.interface.js","sourceRoot":"","sources":["../../src/interfaces/access-token.interface.ts"],"names":[],"mappings":"","sourcesContent":["export interface IAccessToken {\r\n  _id: string;\r\n  accessToken: string;\r\n  refreshToken: string;\r\n  userId: string;\r\n  createAt: string;\r\n}\r\n"]}

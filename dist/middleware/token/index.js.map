@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../src/middleware/token/index.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAAA,mEAAiD;AACjD,uEAAqD","sourcesContent":["export * from './check-confirm-token.middleware';\r\nexport * from './check-forgot-pass-token.middleware';\r\n"]}

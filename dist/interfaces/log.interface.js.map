@@ -1,0 +1,1 @@
+{"version":3,"file":"log.interface.js","sourceRoot":"","sources":["../../src/interfaces/log.interface.ts"],"names":[],"mappings":"","sourcesContent":["export interface ILog {\r\n  event: any;\r\n  userId: string;\r\n  data: any;\r\n  createdAt: string;\r\n}\r\n"]}

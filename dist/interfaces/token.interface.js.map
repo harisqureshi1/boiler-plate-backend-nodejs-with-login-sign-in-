@@ -1,0 +1,1 @@
+{"version":3,"file":"token.interface.js","sourceRoot":"","sources":["../../src/interfaces/token.interface.ts"],"names":[],"mappings":"","sourcesContent":["export interface TokenInterface {\n    user: {\n       email: string;\n       name: string;\n       userId: number;\n    };\n  }\n"]}
