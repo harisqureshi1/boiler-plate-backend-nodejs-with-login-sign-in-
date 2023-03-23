@@ -34,7 +34,7 @@ export const UserSchema = new Schema<IUser>({
   status: {
     type: String,
     required: true,
-    default: UserStatusEnum.PENDING
+    default: UserStatusEnum.CONFIRMED
   },
   tokens: [tokenSubModel]
 },{
