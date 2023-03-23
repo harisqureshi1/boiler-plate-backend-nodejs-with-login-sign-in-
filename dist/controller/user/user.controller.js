@@ -11,7 +11,6 @@ const config_1 = require("../../config");
 class UserController {
     async createUser(req, res, next) {
         const user = req.body;
-        console.log(user);
         user.photo = config_1.config.DEFAULT_AVATAR;
         const { error } = Joi.validate(user, validators_1.newUserValidator);
         if (error) {

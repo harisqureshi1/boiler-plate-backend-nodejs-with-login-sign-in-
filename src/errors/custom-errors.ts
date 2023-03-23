@@ -12,16 +12,6 @@ export const customErrors = {
   BAD_REQUEST_NO_TOKEN: {
     message: 'Token is not present'
   },
-  BAD_REQUEST_NO_STOCK: {
-    message: 'Stock count is zero'
-  },
-  BAD_REQUEST_WRONG_PRODUCT_COUNT: {
-    message: 'Wrong product count'
-  },
-
-  BAD_REQUEST_NOT_VALID_FILE: {
-    message: 'Not valid file'
-  },
 
   //401
   UNAUTHORIZED_BAD_TOKEN: {

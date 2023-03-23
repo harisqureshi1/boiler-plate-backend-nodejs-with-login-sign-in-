@@ -22,11 +22,5 @@ export const config = {
 
   MONGODB_URL: process.env.MONGODB_URL || 'mongodb://127.0.0.1:27017/myFirstDatabase',
 
-  ROOT_EMAIL: process.env.ROOT_EMAIL || 'mail',
-  ROOT_EMAIL_PASSWORD: process.env.ROOT_EMAIL_PASSWORD || 'password',
-  ROOT_EMAIL_SERVICE: process.env.ROOT_EMAIL_SERVICE || 'gmail',
-
-  SUPPORT_EMAIL: process.env.SUPPORT_EMAIL || 'mail',
-
   DEFAULT_AVATAR: process.env.DEFAULT_AVATAR || 'https://html5css.ru/w3images/avatar2.png'
 };
